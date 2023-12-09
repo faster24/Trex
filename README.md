@@ -1,5 +1,5 @@
 # Trex
-Trex is created for the educational purpose of explaining how React works behind the scenes.
+Trex is created for the educational purpose of understanding how React works behind the scenes.
 
 # Features
 
