@@ -1,5 +1,13 @@
 # Trex
-Trex is created for eductaional purpose of how react works in behind the sense.
+Trex is created for the educational purpose of explaining how React works behind the scenes.
+
+# Features
+
+- Concurrent Modes
+- Fibers
+- Reconciliation
+- Funtional Components
+- useState Hook
 
 # Installation
 ``npm install && npm start``
